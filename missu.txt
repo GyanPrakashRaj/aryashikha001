@@ -1,0 +1,17 @@
+<h3><span id="a">Arya@Sikha</span>:<span id="b">~</span><span id="c">$</span> cutie ayan.txt </h3>
+<h2>Hi, I'm Arya Shikha.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>Student at <a href = "https://www.sitsitamarhi.ac.in/"> Sitamarhi Institute of Technology, Sitamarhi.</a> <!-- slightdelayhere--><!-- longlongcomment --> 
+ <br>Pursuing <a href = "https://www.sitsitamarhi.ac.in/"> B.Tech in Computer Science Engineering.</a> </p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj --><p>My other interests are Machine Learning and Web Development. </p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --><p> Resume - <a href = "./ARYA SHIKHA.pdf">Click here</a> </p> <!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --> </h2>
+
+<h3><span id="a">Arya@Sikha</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
+<h2>Email addresses : <a href="mailto:aryashikha195@gmail.com">aryashikha195@gmail.com</a>
+
+Phone Number : <a href = "tel: +9191128630317"> Tap to call </a>
+
+Linked-In : <a href = "https://www.linkedin.com/in/arya-s-88b951221/"> Arya shikha</a> <br/> </h2>
+
+<h3><span id="a">Arya@Sikha</span>:<span id="b">~</span><span id="c">$</span> Fun Fact about me </h3>
+<h1> I never wanted to become a coder during my school days :P </h1>
+
+<h3><span id="a">Arya@Sikha</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h3>
+<h1>Everyone is a loser till they decide to do something about it. </h1>
